@@ -1,0 +1,25 @@
+{
+  "short_name": "Paladin",
+  "name": "Pal",
+  "icons": [
+    {
+      "src": "https://www.paladin.vote/src/media/logo/xicon_transparent.png.pagespeed.ic.ZzQdY_jeOS.webp",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/webp"
+    },
+    {
+      "src": "https://www.paladin.vote/src/media/logo/xicon_transparent.png.pagespeed.ic.ZzQdY_jeOS.webp",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://www.paladin.vote/src/media/logo/xicon_transparent.png.pagespeed.ic.ZzQdY_jeOS.webp",
+      "type": "image/webp",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
